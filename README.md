@@ -106,6 +106,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[aesthetic-legalism5470/korean-dart-mcp](https://github.com/aesthetic-legalism5470/korean-dart-mcp)** – OpenDART API를 기반으로 공시·재무·지분·XBRL 데이터를 조회하고 첨부 문서를 처리하는 MCP 서버입니다.
 
+**[whdrnr2583-cmd/koreanpulse](https://github.com/whdrnr2583-cmd/koreanpulse)** – DART 공시·5%룰 행동주의 투자자(KCGI, 얼라인파트너스, ValueAct, Elliott) 분류·외국인 보유자(BlackRock, Vanguard, Norges Bank) 변동을 영어로 제공하는 글로벌 투자자 대상 MCP 서버입니다.
+
 **[koreainvestment-mcp](https://github.com/koreainvestment/koreainvestment-mcp)** – 한국투자증권 API를 자연어로 검색해 필요한 금융 API를 찾을 수 있는 MCP 서버입니다.
 
 **[pykrx-mcp](https://github.com/sharebook-kr/pykrx-mcp)** – pykrx 라이브러리 기반으로 KOSPI·KOSDAQ·KONEX 주가, 재무제표, 투자자별 수급 및 공매도 데이터를 제공하는 MCP 서버입니다.
